@@ -1,0 +1,43 @@
+{
+  "paragraphs": [
+    {
+      "text": "Ahoj",
+      "user": "bigdatamgr",
+      "dateUpdated": "2018-09-24 12:18:24.815",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1537791500193_1644688635",
+      "id": "20180924-121820_801204677",
+      "dateCreated": "2018-09-24 12:18:20.193",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "Prvni poznamka",
+  "id": "2DSHQ4QBH",
+  "noteParams": {},
+  "noteForms": {},
+  "angularObjects": {
+    "spark:bigdatamgr:2DSHQ4QBH": []
+  },
+  "config": {
+    "isZeppelinNotebookCronEnable": false
+  },
+  "info": {}
+}
